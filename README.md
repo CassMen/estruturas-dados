@@ -1,6 +1,6 @@
 # Estruturas de dados 
 
-Códigos demostrativos de estruturas de dados diversas.
+Códigos demonstrativos de estruturas de dados diversas.
 
 * Listas encadeadas 
   * [Java](../master/listas-encadeadas/java)
